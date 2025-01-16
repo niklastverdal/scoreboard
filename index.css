@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    color: white
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+}
+
+#score-guest {
+    color: #F94F6D;
+    background-color: black;
+    font-size: 80px;
+    width: 120px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+                                                
+}
+
+#score-home {
+    color: #F94F6D;
+    background-color: black;
+    font-size: 80px;
+    width: 120px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+                                                
+}
